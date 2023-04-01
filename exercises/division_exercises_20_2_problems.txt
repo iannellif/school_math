@@ -1,0 +1,42 @@
+Division Exercises (20 problems, Difficulty: 2/10)
+
+Problem 1: 56 / 2 = ?
+
+Problem 2: 432 / 9 = ?
+
+Problem 3: 400 / 5 = ?
+
+Problem 4: 150 / 6 = ?
+
+Problem 5: 148 / 4 = ?
+
+Problem 6: 156 / 4 = ?
+
+Problem 7: 400 / 8 = ?
+
+Problem 8: 680 / 8 = ?
+
+Problem 9: 231 / 3 = ?
+
+Problem 10: 558 / 6 = ?
+
+Problem 11: 45 / 1 = ?
+
+Problem 12: 290 / 5 = ?
+
+Problem 13: 22 / 2 = ?
+
+Problem 14: 48 / 2 = ?
+
+Problem 15: 58 / 1 = ?
+
+Problem 16: 62 / 1 = ?
+
+Problem 17: 511 / 7 = ?
+
+Problem 18: 300 / 6 = ?
+
+Problem 19: 28 / 1 = ?
+
+Problem 20: 371 / 7 = ?
+
